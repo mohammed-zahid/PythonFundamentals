@@ -26,3 +26,25 @@ All my Python code will be there for 30 Days
   Add, modify and delete elements of list
 
   **Day5:** 
+
+  **Day6:** 
+
+  **Day7:** 
+
+  **Day8:** 
+
+  **Day9:** 
+
+  **Day10:** 
+
+  **Day11:** 
+  Introduction to Calsses
+  Introduction to method, attributes, objects/ instance
+  
+  **Day12:** 
+
+  **Day13:** 
+
+  **Day14:** 
+
+  **Day15:** 
